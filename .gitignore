@@ -10,6 +10,10 @@ __pycache__/
 ratings.csv
 movies_metadata.csv
 
+# config
+config.py
+
+
 # Distribution / packaging
 .Python
 build/
